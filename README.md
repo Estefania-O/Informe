@@ -1,14 +1,1 @@
-# Informe
-
-Tabla 1.2. Verificación de la LVK.
-
-VOLTAJE	Trayectoria 1	Trayectoria 2	Trayectoria 3
-	Calculado	Medido	Calculado	Medido	Calculado	Medido
-VT (V)						
-VR1 (V)						
-VR2 (V)						
-VR3 (V)						
-VR4 (V)						
-VR5 (V)						
-∑ V						
-
+*![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.texora.cl%2Fejecutiva%2F4600-blusa-oxford-classic-manga-3-4-55-alg-45-poly-blanco-t-xxxl.html&psig=AOvVaw0VynMuVDdtuBdBBu8l-QmA&ust=1608503544277000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC9ueWM2-0CFQAAAAAdAAAAABAD)
